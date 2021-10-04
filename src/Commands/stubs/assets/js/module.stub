@@ -1,5 +1,5 @@
-import SamplePage from './pages/SamplePage.vue'
-import './index.css'
+import SamplePage from './views/SamplePage.vue'
+import '../sass/module.scss'
 
 const myCallback = (app, router) => {
   router.addRoute({

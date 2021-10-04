@@ -1,0 +1,13 @@
+<template>
+  <div class="bg-blue-100 h-screen container mx-auto px-6">
+    <h1 class="text-xl font-bold">Sample Page</h1>
+  </div>
+</template>
+
+<script>
+export default {
+  setup() {
+    return {}
+  },
+}
+</script>
